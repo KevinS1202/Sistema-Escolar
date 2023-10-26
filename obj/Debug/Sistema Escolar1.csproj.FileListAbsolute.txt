@@ -1,0 +1,18 @@
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\bin\Debug\Sistema Escolar1.exe.config
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\bin\Debug\Sistema Escolar1.exe
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\bin\Debug\Sistema Escolar1.pdb
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema Escolar1.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema Escolar1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema_Escolar1.Properties.Resources.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema_Escolar1.src.vistas.Teachers.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema Escolar1.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema Escolar1.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema Escolar1.exe
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema Escolar1.pdb
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema_Escolar1.Menu.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema_Escolar1.src.vistas.Curse.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema_Escolar1.src.vistas.RegisterStudent.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema_Escolar1.src.vistas.Score.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema_Escolar1.src.vistas.Students.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema_Escolar1.src.vistas.Subjects.resources
+C:\Users\kevin\Desktop\ЮЗГУ\Arquitectura de sistema de Software\Sistema Escolar1\Sistema Escolar1\obj\Debug\Sistema_Escolar1.src.vistas.TeacherSubject.resources
